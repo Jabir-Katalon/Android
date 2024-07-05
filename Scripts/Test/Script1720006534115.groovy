@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/mohammedjabir/Downloads/IT Glossary_1.5_Apkpure.apk', true)
 
-Mobile.verifyElementExist(findTestObject('Object Repository/android.widget.ImageView'), 0)
+Mobile.delay(10)
+
+Mobile.verifyElementExist(findTestObject('android.widget.ImageView'), 0)
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/android.widget.TextView - About App'), 0)
 
