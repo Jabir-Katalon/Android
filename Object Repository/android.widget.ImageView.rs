@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.ImageView</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>c2bcf9a3-b790-4309-8469-344eec546ba9</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.ImageView</value>
-      <webElementGuid>57100228-b665-4876-a131-599126cd29e4</webElementGuid>
+      <webElementGuid>bd39c89d-a8b2-416a-a71a-9af8193b281a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,15 +21,15 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>5b26e770-8eed-4918-a62e-d671dd6b105f</webElementGuid>
+      <webElementGuid>f26dbe13-d065-4542-837d-775420148c44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
       <value>com.saiftech.papoo.itglossary:id/imageView2</value>
-      <webElementGuid>18806516-0985-40bf-b38c-b5ce7ffb6baf</webElementGuid>
+      <webElementGuid>92784794-28fe-4d1c-a63a-c70e04d3a451</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.saiftech.papoo.itglossary</value>
-      <webElementGuid>2e4ddb47-861d-4cbf-83d5-af5317e81bb9</webElementGuid>
+      <webElementGuid>8ff9d720-9ccf-4245-b503-a3739dc9f7a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d9e6cce4-fe5e-45bc-b8a9-6c3f4cc046f6</webElementGuid>
+      <webElementGuid>da89dcb5-21ee-496c-abea-e6b957c27817</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>028c29e8-6e60-4d4e-843a-be0b7de39001</webElementGuid>
+      <webElementGuid>8c3a6f52-1e99-4bf1-ba6c-410c3f7e14b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4cbe3ed4-dd8f-4b37-ac34-334ea525c68e</webElementGuid>
+      <webElementGuid>c0fe0f7e-b012-4b3c-b5ac-983f1af0dae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>aededcde-7472-4ceb-9c59-9bc568f95b90</webElementGuid>
+      <webElementGuid>9e3dce9a-99e4-4dc5-855e-a220d987e1c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c6a01d19-7cbe-497f-a157-6764cab0b933</webElementGuid>
+      <webElementGuid>32fee2a6-665d-4d4d-81b3-79f8891adf63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>886f3269-8f63-495b-904c-fbdac90e4a79</webElementGuid>
+      <webElementGuid>30224d53-58cf-490c-8ab9-cd23146c0799</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e39bd0dd-53e3-4c53-a344-50eb4dadaaa3</webElementGuid>
+      <webElementGuid>6dc98ad4-bfc8-4205-a6ea-005d89744afc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>18a5942d-5dd1-40fb-9bc0-bfad9ba86590</webElementGuid>
+      <webElementGuid>d0f1bdcd-e00e-4d91-b61b-2317041dccc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ac65e733-425c-4e35-a32a-ced89fc3211b</webElementGuid>
+      <webElementGuid>1eda60d2-65be-4c2b-9a1a-8a6c05258c6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ebcb1fde-ffd8-4eb7-9bc8-6149a480a181</webElementGuid>
+      <webElementGuid>0f40a48c-2798-445f-b4d9-2c18cb5b4b60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>0a45aff5-db7a-450e-bd36-00911090bf6b</webElementGuid>
+      <webElementGuid>11450796-45e8-4e52-9be7-6c5b9d6a0913</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>y</name>
       <type>Main</type>
       <value>220</value>
-      <webElementGuid>dbd35efb-fa2f-4ee3-ac78-eaca2cd16607</webElementGuid>
+      <webElementGuid>b621583b-679a-430f-97ec-bd810d7f6822</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1080</value>
-      <webElementGuid>2a6ab289-a35d-47d0-8764-2a65800319c7</webElementGuid>
+      <webElementGuid>cd03910c-8538-429a-af7c-42df1bcc766a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>height</name>
       <type>Main</type>
       <value>996</value>
-      <webElementGuid>0f6ddead-8d67-4af3-ba59-1b4f207ca899</webElementGuid>
+      <webElementGuid>3e12073a-d2e8-4ab2-a379-d267bd5701e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,23 +157,23 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[0,220][1080,1216]</value>
-      <webElementGuid>1ed8365b-8bb9-49f5-ba80-fe9cab706ae6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>displayed</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>07fd4354-67f8-4272-9698-82c09c5a078a</webElementGuid>
+      <webElementGuid>89df5098-d282-4db3-973e-b40521cb5717</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>displayed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ceb372a5-46d6-4ef6-8fb8-6a8fe1a58de2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>54269e21-eb17-498f-b3e1-0b5eb5f8e712</webElementGuid>
+      <webElementGuid>e57ba051-fc9c-4f0c-8872-6a53bce9eaa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,47 +181,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.ImageView[1]</value>
-      <webElementGuid>ba362cf1-ac7b-43da-9024-f94539ab4816</webElementGuid>
+      <webElementGuid>2f58b171-9c0b-401d-9007-f1f28eba7df0</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.saiftech.papoo.itglossary:id/imageView2' and (@text = '' or . = '')]</locator>
+   <locator>//*[@class = 'android.widget.ImageView' and @displayed = 'true']</locator>
    <locatorCollection>
       <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.ImageView&quot;).resourceId(&quot;com.saiftech.papoo.itglossary:id/imageView2&quot;).packageName(&quot;com.saiftech.papoo.itglossary&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
-      </entry>
-      <entry>
          <value>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.saiftech.papoo.itglossary:id/imageView2' and (@text = '' or . = '')]</value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.saiftech.papoo.itglossary:id/imageView2' and (@text = '' or . = '')]</value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>com.saiftech.papoo.itglossary:id/imageView2</value>
+         <value>enabled == 1</value>
       </entry>
       <entry>
          <key>NAME</key>
          <value></value>
       </entry>
       <entry>
-         <key>IMAGE</key>
+         <key>ANDROID_VIEWTAG</key>
          <value></value>
       </entry>
       <entry>
@@ -229,12 +205,36 @@
          <value></value>
       </entry>
       <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.ImageView</value>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.ImageView' and @displayed = 'true']</value>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.ImageView[1]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.ImageView&quot;).resourceId(&quot;com.saiftech.papoo.itglossary:id/imageView2&quot;).packageName(&quot;com.saiftech.papoo.itglossary&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.saiftech.papoo.itglossary:id/imageView2</value>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+         <value>**[`enabled == 1`]</value>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.ImageView</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
